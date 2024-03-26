@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WebdevAtanu
+- 👋 Hi, I’m @Atanu
 - 👀 I’m interested in Web developing.
 - 🌱 I’m currently learning.
 <!---
