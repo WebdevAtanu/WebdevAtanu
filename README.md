@@ -11,3 +11,6 @@ A passionate web developer with a focus on creating seamless user experiences an
 
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=WebdevAtanu&show_icons=true&include_all_commits=false&theme=dracula&hide_border=false" alt="Atanu's github stats" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebdevAtanu&layout=compact&theme=catppuccin_mocha&hide_border=false" />|
 | - | - |
+
+
+<p align="center" >Crafted with<a href="https://github.com/anuraghazra/github-readme-stats"> github-readme-stats </a>by<a href="https://github.com/anuraghazra"> Anurag Hazra</a></p>
