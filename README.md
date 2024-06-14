@@ -13,4 +13,4 @@ A passionate web developer with a focus on creating seamless user experiences an
 | - | - |
 
 
-<p align="center" >Crafted with<a href="https://github.com/anuraghazra/github-readme-stats"> github-readme-stats </a>by<a href="https://github.com/anuraghazra"> Anurag Hazra</a></p>
+<h6 align="center" >Crafted with<a href="https://github.com/anuraghazra/github-readme-stats"> github-readme-stats </a>by<a href="https://github.com/anuraghazra"> Anurag Hazra</a></h6>
