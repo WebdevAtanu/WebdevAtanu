@@ -1,52 +1,66 @@
-# Hi, I'm Atanu Mondal 👋
+# 👋 Hi, I'm Atanu Mondal
 
-Backend Developer (.NET Core) | API Developer
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebdevAtanu&layout=compact&theme=tokyonight)
+
+## 🚀 About Me
+
+I am a **Backend Developer specializing in .NET Core Web API development**.  
+Currently working on building **scalable ERP systems, APIs, and database-driven applications**.
+
+I also have **frontend experience with React and JavaScript**, which helps me understand **complete full-stack workflows**.
+
+🔹 Backend API Development  
+🔹 Database Design & Optimization  
+🔹 Clean Architecture & Maintainable Code  
+🔹 System Design Learning
 
 ---
 
-## About Me
-
-I am a Backend Developer working primarily with **.NET Core** to build scalable ERP systems and RESTful APIs.
-
-I have experience designing clean architectures, writing efficient database queries, and developing secure, maintainable server-side applications.
-
-I also have frontend knowledge (React, JavaScript), which helps me understand complete full-stack workflows.
-
----
-
-## Tech Stack
+## 🛠 Tech Stack
 
 ### Backend
 
-- .NET Core Web API
-- Node.js
-- Express.js
-- REST API Development
+![.NET](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Database
 
-- SQL Server
-- MongoDB
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Tools
 
-- Git & GitHub
-- Postman
-- VS Code
-- Visual Studio
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ---
 
-## What I Focus On
+## 🔥 GitHub Streak
 
-- Writing clean and maintainable backend code
-- Designing scalable APIs
-- Database optimization
-- Improving system design skills
+![GitHub Streak](https://streak-stats.demolab.com/?user=WebdevAtanu&theme=tokyonight)
 
 ---
 
-## Contact
+## 📚 Currently Learning
 
-- LinkedIn: https://www.linkedin.com/in/atanu991
-- Email: atanum991@gmail.com
+- Advanced **.NET Architecture**
+- **Stored Procedures**
+- **Angular**
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/atanu991
+
+📧 Email  
+atanum991@gmail.com
