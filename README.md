@@ -9,11 +9,6 @@ Currently working on building **scalable ERP systems, APIs, and database-driven 
 
 I also have **frontend experience with React and JavaScript**, which helps me understand **complete full-stack workflows**.
 
-🔹 Backend API Development  
-🔹 Database Design & Optimization  
-🔹 Clean Architecture & Maintainable Code  
-🔹 System Design Learning
-
 ---
 
 ## 🛠 Tech Stack
